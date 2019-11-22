@@ -1,0 +1,26 @@
+{
+  "name": "epm-password-manager",
+  "version": "1.0.0",
+  "description": "Password storing and sharing across team members",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enpama/epm-password-manager.git"
+  },
+  "author": "Enpama Ltd.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/enpama/epm-password-manager/issues"
+  },
+  "homepage": "https://github.com/enpama/epm-password-manager#readme",
+  "devDependencies": {
+    "electron": "^7.1.2",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "openpgp": "^4.7.0"
+  }
+}
