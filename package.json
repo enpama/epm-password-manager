@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/enpama/epm-password-manager#readme",
   "devDependencies": {
-    "electron": "^7.1.2",
+    "electron": "^18.3.7",
     "mocha": "^6.2.2"
   },
   "dependencies": {
