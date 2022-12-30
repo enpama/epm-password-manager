@@ -18,7 +18,7 @@
   "homepage": "https://github.com/enpama/epm-password-manager#readme",
   "devDependencies": {
     "electron": "^7.1.2",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "openpgp": "^4.7.0"
